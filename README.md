@@ -1,6 +1,6 @@
 ## Hey! I'm Juarez Coutinho <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a computer scientist passionate about logic, technology enthusiast and curious to always learn more. I currently live in Brazil and working as a FullStack developer.
+I'm a computer scientist passionate about logic, technology enthusiast and curious to always learn more. I currently live in Portugal and working as a FullStack developer.
 
 
 ## 🔧 Technologies & Tools
